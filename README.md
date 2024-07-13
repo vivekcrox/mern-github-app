@@ -1,22 +1,14 @@
-# Build and Deploy a Github-like App | React, MongoDB, Express.js, Passport.js
+# 🚀 Build and Deploy a Simplified View of Github Web App  
+## React.js, MongoDB, Express.js, Passport.js
 
-![Demo App](https://i.ibb.co/xfpddW2/Screenshot-22.png)
-
-[Video Tutorial on Youtube](https://youtu.be/P6UyvDhNTbg)
-
-Some Features:
+Features:
 
 -   ⚙️ Tech stack: MERN + TailwindCSS + Github API
--   🔑 Authentication && Authorization with Passport.js (Github Auth)
--   👾 Fetch Github User Profiles and Repos
--   🚀 Filter Repos on the Client
--   🎭 Learn behind the scenes for authentication
--   🐛 Error handling (both on the server and on the client)
--   🎃 At the end DEPLOY like a pro for FREE!
--   ⏳ And much more!
+-   🔑 Authentication & Authorization with Passport.js (Github Auth)
+-   🚥 Fetch Github User Profiles and Repos
+-   🗂 Filter Repos on the Client
 
 ### Setup .env file
-
 ```js
 PORT=5000
 MONGO_URI=
